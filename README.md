@@ -1,27 +1,28 @@
-# Git
+# Git :
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
-## Development server
+## Development server :
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Code scaffolding :
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## BDD :
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+* A user can search for github users by simply typing their usernames
+* A user is able to explore profiles of different github users
 
-## Running unit tests
+## Author :
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Clinton Oliera 
 
-## Running end-to-end tests
+##  Contact nformation :
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+* clintonoliera391@gmail.com
 
-## Further help
+##  Licence Information
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* This software application is under MIT licence
